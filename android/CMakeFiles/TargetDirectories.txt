@@ -1,0 +1,3 @@
+/goinfre/acouliba/.zz/flutter_brotli/android/CMakeFiles/native_add.dir
+/goinfre/acouliba/.zz/flutter_brotli/android/CMakeFiles/edit_cache.dir
+/goinfre/acouliba/.zz/flutter_brotli/android/CMakeFiles/rebuild_cache.dir
