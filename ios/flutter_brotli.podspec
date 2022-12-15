@@ -13,7 +13,7 @@ Flutter Brotli
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Your Company' => 'email@example.com' }
   s.source           = { :path => '.' }
-  s.source_files = 'Classes/**/*'
+  s.source_files = 'Classes/**/*', 'ios/Classes/**/*', 'ios/Classes/**/**/*', 'ios/Classes/**/**/**/*', 'test.c', 'ios/test.c', '/Users/linkkader/Documents/GitHub/flutter_brotli/ios/test.c'
   s.dependency 'Flutter'
   s.platform = :ios, '9.0'
 
