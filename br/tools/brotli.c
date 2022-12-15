@@ -1337,11 +1337,11 @@ TVALUE *myDeCompress(uint8_t *data, unsigned long long length, char *path)
 	return value;
 }
 
-int main(){
+//int main(){
 //	myCompress("kader", "/goinfre/acouliba/.zz/dart_brotli/br/");
-	//myDeCompress("kader", 5, "/goinfre/acouliba/.zz/dart_brotli/br/");
-	return 0;
-}
+//	myDeCompress("kader", 5, "/goinfre/acouliba/.zz/dart_brotli/br/");
+//	return 0;
+//}
 
 int native_add(int x, int y) {
     return 44;
